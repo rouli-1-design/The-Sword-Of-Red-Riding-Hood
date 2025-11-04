@@ -5,11 +5,11 @@ The visual design work created through processing presents an adapted version of
 ---
 
 ## Table of content
--[Project structure](#project-structure)
--[How to run](#how-to-run)
--[Features](#features)
--[References](#references)
--[Author](#Author)
+- [Project structure](#project-structure)
+- [How to run](#how-to-run)
+- [Features](#features)
+- [References](#references)
+- [Author](#Author)
 
 ---
 
